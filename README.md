@@ -1,6 +1,9 @@
 <!-- Please update value in the {}  -->
 
 <h1 align="center">Email-Input-Puzzle</h1>
+<div align="center">
+  <img src="./.github/img/planity.png" alt="Logo" width="50%" height="auto" >
+</div>
 
 <div align="center">
    Solution for a challenge from  <a href=https://www.planity.com/ target="_blank">Planity</a>.
