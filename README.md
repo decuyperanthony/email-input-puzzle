@@ -29,11 +29,13 @@
 
 ## Overview
 
-![screenshot](./.github/img/input-puzzle-preview.png)
+<!-- ![screenshot](./.github/img/input-puzzle-preview.png) -->
+<img src="./.github/img/input-puzzle-preview.png" alt="Logo" width="50%" height="auto">
 
-<div align="center">------------------</div>
+<div align="">------------------</div>
+<img src="./.github/img/input-puzzle-preview2.png" alt="Logo" width="50%" height="auto">
 
-![screenshot](./.github/img/input-puzzle-preview2.png)
+<!-- ![screenshot](./.github/img/input-puzzle-preview2.png) -->
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
