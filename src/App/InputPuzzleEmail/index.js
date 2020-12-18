@@ -57,7 +57,7 @@ const InputPuzzleEmail = () => {
     };
 
     useEffect(() => {
-        //! si le regex email match avec la value de l'input
+        //! si la regex email match avec la value de l'input
         //! j'ajoute la class email
         const regexEmail = /^[\w.=-]+@[\w.-]+\.[\w]{2,3}$/i;
         inputValue.match(regexEmail) && setSucessClass(true);
